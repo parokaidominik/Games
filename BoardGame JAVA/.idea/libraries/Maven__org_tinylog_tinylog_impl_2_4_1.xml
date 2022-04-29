@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Maven: org.tinylog:tinylog-impl:2.4.1" type="repository">
+    <properties maven-id="org.tinylog:tinylog-impl:2.4.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/tinylog/tinylog-impl/2.4.1/tinylog-impl-2.4.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/tinylog/tinylog-api/2.4.1/tinylog-api-2.4.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/mojo/animal-sniffer-annotations/1.18/animal-sniffer-annotations-1.18.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
